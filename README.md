@@ -6,6 +6,6 @@ Este reposItório é destinado as aulas dos alunos da jornada de dados que se en
 # Conteúdo
 
 ### Aulas
-- [Primeiro Dia - Introdução a Python](https://github.com/lealre/bootcamp-de/tree/main/01)
-- [Segundo Dia - TypeError, Type Check, Type Conversion, try-except e if](https://github.com/lealre/bootcamp-de/tree/main/02)
-- [Terceiro Dia - DEBUG, IF, FOR, While, Listas e Dicionários](https://github.com/lealre/bootcamp-de/tree/main/03)
+- [Primeiro Dia - Introdução a Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_01)
+- [Segundo Dia - TypeError, Type Check, Type Conversion, try-except e if](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_02)
+- [Terceiro Dia - DEBUG, IF, FOR, While, Listas e Dicionários](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_03)
