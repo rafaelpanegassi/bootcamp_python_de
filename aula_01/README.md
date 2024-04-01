@@ -247,4 +247,4 @@ Isso ajudará a consolidar seu conhecimento sobre o Git e a familiarizar-se com 
 Nesta aula, aprendemos a configurar nosso ambiente de desenvolvimento para começar a programar em Python. Com o Python, o VSCode, e o Git instalados e configurados, estamos prontos para mergulhar mais fundo no mundo da programação! Nos vemos na próxima aula!
 
 
-Conteúdo original está neste [Repositório Oficial](https://github.com/lvgalvao/data-engineering-roadmap/blob/main/Bootcamp%20-%20Python%20para%20dados/aula01/README.md).
+Conteúdo original está neste [Repositório Oficial](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/Bootcamp%20-%20Python%20para%20dados/aula01).
