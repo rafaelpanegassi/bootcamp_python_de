@@ -1,13 +1,5 @@
 ## Bootcamp Aula 01
 
-Bem-vindo ao material da Aula 01, focado no setup inicial das ferramentas essenciais para a programação em Python: Python, Git & Github, e VSCode.
-
-Se você está revisando ou não conseguiu acompanhar o primeiro vídeo no Youtube, este é o lugar certo para começar!
-
-Assista ao vídeo no Youtube sobre o Setup de Python do Zero aqui: [Python para dados](https://youtu.be/-M4pMd2yQOM?si=HVY3EDLt6aApJRG5)
-
-Além disso, vamos criar nossa primeira aplicação em Python, e estou muito empolgado para guiá-lo nessa jornada!
-
 ## Desafio do dia: Cálculo de Bônus com Entrada do Usuário
 
 Escreva um programa em Python que solicita ao usuário para digitar seu nome, o valor do seu salário mensal e o valor do bônus que recebeu. O programa deve, então, imprimir uma mensagem saudando o usuário pelo nome e informando o valor do salário em comparação com o bônus recebido.
@@ -15,11 +7,6 @@ Escreva um programa em Python que solicita ao usuário para digitar seu nome, o 
 ### 1. Introdução 
 
 Nesta aula, focaremos em preparar seu ambiente de desenvolvimento. Antes de começarmos a programar em Python, precisamos configurar as ferramentas necessárias para tornar nosso trabalho mais eficiente e organizado.
-
-- Nossa plataforma
-- Grupos de ajuda e de whatsapp
-- Por que estudar Python?
-- Python na engenharia de dados
 
 ### 2. Instalação do Python
 
@@ -233,10 +220,6 @@ Qual é o seu nome? Luciano
 
 Escreva um programa em Python que solicita ao usuário para digitar seu nome, o valor do seu salário mensal e o valor do bônus que recebeu. O programa deve, então, imprimir uma mensagem saudando o usuário pelo nome e informando o valor do salário em comparação com o bônus recebido.
 
-![imagem](pic.png)
-
-![imagem](pic2.png)
-
 #### Instruções:
 
 1. O programa deve começar solicitando ao usuário que insira seu nome.
@@ -262,3 +245,6 @@ Isso ajudará a consolidar seu conhecimento sobre o Git e a familiarizar-se com 
 ## Conclusão
 
 Nesta aula, aprendemos a configurar nosso ambiente de desenvolvimento para começar a programar em Python. Com o Python, o VSCode, e o Git instalados e configurados, estamos prontos para mergulhar mais fundo no mundo da programação! Nos vemos na próxima aula!
+
+
+Conteúdo original está neste [Repositório Oficial](https://github.com/lvgalvao/data-engineering-roadmap/blob/main/Bootcamp%20-%20Python%20para%20dados/aula01/README.md).
