@@ -1,9 +1,9 @@
-# Python Bootcamp  para Engenharia de Dados
+# Python Bootcamp para Engenharia de Dados
 
 Este reposItório é destinado as aulas dos alunos da jornada de dados que se encontra neste repositório: [Python Bootcamp para Engenheiro de Dados](https://github.com/lvgalvao/data-engineering-roadmap/tree/main/Bootcamp%20-%20Python%20para%20dados) pelo [Luciano Galvão](https://github.com/lvgalvao).
 
  ------------------------
-# Contents
+# Conteúdo
 
 ### Aulas
 - [Primeiro Dia - Introdução a Python](https://github.com/lealre/bootcamp-de/tree/main/01)
