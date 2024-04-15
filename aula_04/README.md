@@ -109,24 +109,32 @@ Listas e dicionários são estruturas de dados versáteis que permitem armazenar
 ### 1. Lista de números ao quadrado
 
 ```python
-numeros = list(range(1, 11))
-for numero in numeros:
-    print(quadrados**2)
+lista: list = []
+for i in range(0,11):
+    lista.append(i**2)
+    print(lista)
 ```
 
 ### 2. Modificar lista de linguagens
 
 ```python
-linguagens = ["Python", "Java", "C++", "JavaScript"]
-linguagens.remove("C++")
-linguagens.append("Ruby")
-print(linguagens)
+lista: list = ['Python', 'Java', 'C++', 'JavaScript']
+print('Lista Inicial',lista)
+lista.remove('C++')
+print('Lista Sem C++',lista)
+lista.append('Ruby')
+print('Lista Com Ruby',lista)
 ```
 
 ### 3. Informações de um livro
 
 ```python
-livro = {"titulo": "1984", "autor": "George Orwell", "ano": 1949}
+from typing import Dict, Any
+livro: Dict[str,int] = { 
+    'Titulo' : '1984',
+    'Autor':'George Orwell',
+    'Ano':1949
+} 
 for chave, valor in livro.items():
     print(f"{chave}: {valor}")
 ```
