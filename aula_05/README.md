@@ -27,22 +27,22 @@ Antes de executar o projeto, não esqueça de colocar o arquivo *measurements.tx
 ```bash
 git clone https://github.com/rafaelpanegassi/bootcamp_jornada.git
 ```
- 2. Enter the folder:
+ 2. Entre nesta pasta:
  ```bash
  cd bootcamp_jornada/aula_05
  ```
 
-3. Set Python version using pyenv:
+3. Coloque a versão do python usando pyenv:
 ```bash
 pyenv local 3.12.1
 ```
 
-4. Set poetry to use Python 3.12.1:
+4. Coloque a versão do python usando poetry:
 ```bash
 poetry env use 3.12.1
 ``` 
 
-5. Install dependencies and activate the virtual environment:
+5. Instale todas as dependências e entre no ambiente virtual:
 ```bash
 poetry install --no-root
 ```
