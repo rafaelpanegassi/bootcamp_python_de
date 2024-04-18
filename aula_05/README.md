@@ -5,7 +5,7 @@ Este repositório representa o Projeto_01 do BOOTCAMP de Engenharia de Dados, cu
 
 ## Resultados
 
-Machine specifications:
+Especificações da Máquina Utilizada:
 * Ryzen 5 3600
 * 32G RAM
 
