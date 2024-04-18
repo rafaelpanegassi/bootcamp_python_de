@@ -12,9 +12,9 @@ Especificações da Máquina Utilizada:
 |           Ambiente    | Tempo de Execução   |
 |-------------------|------------------:|
 | Python            |      42 min 37 s    |
-| Python + Pandas   |       6 min 36 s    |
-| Python + Polars   |        38 s    |
-| Python + Duckdb   |        33 s    |
+| Python + Pandas   |       5 min 42 s    |
+| Python + Polars   |        27 s    |
+| Python + Duckdb   |        24 s    |
 
 
 ## Como executar
