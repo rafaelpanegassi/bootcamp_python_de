@@ -3,15 +3,15 @@
 Este repositório representa o Projeto_01 do BOOTCAMP de Engenharia de Dados, cujo objetivo é comparar diferentes formas de ler um bilhão de linhas em Python. O objetivo é implementar modificações nos scripts com base nos conceitos aprendidos nas aulas anteriores do bootcamp, como dicas de tipos e funções.
 
 
-## Results
+## Resultados
 
 Machine specifications:
 * Ryzen 5 3600
 * 32G RAM
 
-|           Enviroment    | Execution Time   |
+|           Ambiente    | Tempo de Execução   |
 |-------------------|------------------:|
-| Python            |      46 min 37 s    |
+| Python            |      42 min 37 s    |
 | Python + Pandas   |       6 min 36 s    |
 | Python + Polars   |        38 s    |
 | Python + Duckdb   |        33 s    |
