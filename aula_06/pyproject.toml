@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "aula-06"
+version = "0.1.0"
+description = ""
+authors = ["Rafael Panegassi <70807807+rafaelpanegassi@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.5"
+flake8 = "^7.0.0"
+black = "^24.4.0"
+isort = "^5.13.2"
+taskipy = "^1.12.2"
+pre-commit = "^3.7.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.isort]
+profile = "black"
+
+[tool.taskipy.tasks]
+format = """
+isort main.py
+black main.py
+flake8 main.py
+"""
