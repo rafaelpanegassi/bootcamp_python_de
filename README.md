@@ -15,4 +15,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Quarto Dia - Type Hint, Listas e Dicionários e Funções](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_04)
 - [Quinto Dia - Projeto 01 - Desafio de Processamento de Dados com Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_05)
 - [Sexto Dia - Aula de Revisão e Tira Dúvidas](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_06)
-- [Sétimo Dia - Funções em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_07)
+- [Sétimo Dia - Funções em Python e Estrutura de Dados](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_07)
