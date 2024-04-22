@@ -24,9 +24,9 @@ Os nomes das funções seguem as mesmas regras de nomes de variáveis em Python:
 ### Parâmetros e Argumentos
 
 * **Parâmetros** são as variáveis listadas nos parênteses na definição da função. Eles são como placeholders para os dados que a função irá processar.
-    
+
 * **Argumentos** são os valores reais passados para a função quando ela é chamada.
-    
+
 
 ```python
 def soma(a, b):
@@ -141,17 +141,17 @@ graph TD;
 ### Funções
 
 1. **Ler CSV**:
-    
+
     * Função: `ler_csv`
     * Entrada: Nome do arquivo CSV
     * Saída: Lista de dicionários com dados lidos
 2. **Processar Dados**:
-    
+
     * Função: `processar_dados`
     * Entrada: Lista de dicionários
     * Saída: Dicionário processado conforme descrito
 3. **Calcular Vendas por Categoria**:
-    
+
     * Função: `calcular_vendas_categoria`
     * Entrada: Dicionário processado
     * Saída: Dicionário com total de vendas por categoria
