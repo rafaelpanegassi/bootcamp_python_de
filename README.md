@@ -16,3 +16,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Quinto Dia - Projeto 01 - Desafio de Processamento de Dados com Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_05)
 - [Sexto Dia - Aula de Revisão e Tira Dúvidas](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_06)
 - [Sétimo Dia - Funções em Python e Estrutura de Dados](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_07)
+- [Oitavo Dia - Funções em Python - ETL com Pandas, JSON e Parquet](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_08)
