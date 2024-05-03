@@ -1,12 +1,12 @@
-from loguru import logger
+from log import log_decorator
 
-logger.add("info.log")
+from timer import time_measure_decorator
 
-
-def soma(x, y):
-    logger.info(x)
-    logger.info(y)
-    return x + y
+from hello import hello
 
 
-soma(2, 3)
+@hello
+def soma_1(a, b):
+    return a + b
+
+soma_1(1,2)
