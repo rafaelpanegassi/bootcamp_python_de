@@ -1,6 +1,7 @@
 import time
-from loguru import logger
 from functools import wraps
+
+from loguru import logger
 
 
 # Decorador de medida de tempo
@@ -10,6 +11,9 @@ def time_measure_decorator(func):
         start_time = time.time()
         result = func(*args, **kwargs)
         end_time = time.time()
-        logger.info(f"Função '{func.__name__}' executada em {end_time - start_time:.4f} segundos")
+        logger.info(
+            f"Função '{func.__name__}' executada em {end_time - start_time:.4f} segundos"
+        )
         return result
+
     return wrapper

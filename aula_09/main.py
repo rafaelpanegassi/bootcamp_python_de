@@ -1,7 +1,9 @@
 from loguru import logger
 
+
 def minha_funcao():
     raise ValueError("Um erro aconteceu!")
+
 
 try:
     minha_funcao()
