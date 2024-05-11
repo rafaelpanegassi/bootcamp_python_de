@@ -21,3 +21,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Décimo dia - Aula de Revisão e Tira Dúvidas](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_10)
 - [Décimo primeiro dia - Aula sobre Introdução a Programação Orientação a Objetos em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_11)
 - [Décimo segundo dia - Aula sobre Introdução a Classes em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_12)
+- [Décimo terceiro dia - Aula sobre Herança e Polimorfismo em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_13)
