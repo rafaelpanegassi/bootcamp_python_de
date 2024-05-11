@@ -11,12 +11,25 @@ class CsvProcessor:
         self.df = pd.read_csv(self.path)
         return self.df
 
-    def filtrar(self, coluna, atributo):
-        self.df_filtrado = self.df[self.df[coluna] == atributo]
-        return self.df_filtrado
+    # def filtrar(self, coluna, atributo):
+    #    self.df_filtrado = self.df[self.df[coluna] == atributo]
+    #    return self.df_filtrado
+    def filtrar(self, colunas, atributos):
+        if len(colunas) != len(atributos):
+            raise ValueError("O número de colunas e atributos são diferentes")
 
-    def sub_filtro(self, coluna, atributo):
-        return self.df_filtrado[self.df_filtrado[coluna] == atributo]
+        if len(colunas) == 0:
+            return self.df
+
+        coluna_atual = colunas[0]
+        atributo_atual = atributos[0]
+
+        df_filtrado = self.df[self.df[coluna_atual] == atributo_atual]
+
+        if len(colunas) == 1:
+            return df_filtrado
+        else:
+            return self.filtrar(colunas[1:], atributos[1:])
 
 
 # arquivo_csv = './exemplo.csv'

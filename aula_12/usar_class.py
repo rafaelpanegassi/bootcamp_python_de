@@ -6,14 +6,13 @@ limite = "SP"
 
 arquivo = CsvProcessor(arquivo_csv)
 arquivo.carregar_csv()
-print(arquivo.filtrar(filtro, limite))
-print(arquivo.sub_filtro("preco", "10,50"))
+print(arquivo.filtrar(["estado", "preco"], ["SP", "10,50"]))
 
-arquivo_csv2 = "./exemplo2.csv"
-filtro2 = "estado"
-limite2 = "DF"
+# arquivo_csv2 = "./exemplo2.csv"
+# filtro2 = "estado"
+# limite2 = "DF"
 
-arquivo = CsvProcessor(arquivo_csv2)
-arquivo.carregar_csv()
-print(arquivo.filtrar(filtro2, limite2))
-print(arquivo.sub_filtro("preco", "10,50"))
+# arquivo = CsvProcessor(arquivo_csv2)
+# arquivo.carregar_csv()
+# print(arquivo.filtrar(filtro2, limite2))
+# print(arquivo.sub_filtro("preco", "10,50"))

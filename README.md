@@ -19,4 +19,5 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Oitavo Dia - Funções em Python - ETL com Pandas, JSON e Parquet](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_08)
 - [Nono Dia - Funções em Python - Decoradores](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_09)
 - [Décimo dia - Aula de Revisão e Tira Dúvidas](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_10)
-- [Décimo primeiro dia - Aula sobre Introdução a Classes em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_11)
+- [Décimo primeiro dia - Aula sobre Introdução a Programação Orientação a Objetos em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_11)
+- [Décimo segundo dia - Aula sobre Introdução a Classes em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_12)
