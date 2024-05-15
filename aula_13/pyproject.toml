@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aula-13"
+version = "0.1.0"
+description = ""
+authors = ["Rafael Panegassi <70807807+rafaelpanegassi@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.2"
+lib = "^4.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
