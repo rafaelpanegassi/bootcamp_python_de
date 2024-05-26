@@ -1,4 +1,4 @@
-# Aula 17: SQLAlchemy - Conjunto de ferramentas para manipular SQL em
+# Aula 17: SQLAlchemy - Conjunto de ferramentas para manipular SQL em Python
 
 Mapeamento Objeto-Relacional (ORM) é uma técnica que permite consultar e manipular dados de um banco de dados usando um paradigma orientado a objetos. Ao falar sobre ORM, a maioria das pessoas está se referindo a uma biblioteca que implementa a técnica de Mapeamento Objeto-Relacional, daí a frase "um ORM".
 
