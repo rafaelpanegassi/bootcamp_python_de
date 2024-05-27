@@ -26,3 +26,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Décimo quinto dia - Aula de Métodos de Acesso e Modificação em Python (POO)](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_15)
 - [Décimo sexto dia - Aula de revisão de Classes, DataClasses e Pydantic](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_16)
 - [Décimo sétimo dia - SQLAlchemy - Conjunto de ferramentas para manipular SQL em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_17)
+- [Décimo oitavo dia - API - Conjunto de ferramentas para manipular SQL em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_18)
