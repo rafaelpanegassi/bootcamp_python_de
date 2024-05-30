@@ -7,6 +7,7 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 
 ### Projetos
 - [Projeto 01 - Desafio de 1 Bilhão de Linhas](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_05)
+- [Vigésimo dia - Projeto 02 - Criação de um CRUD completo](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_20)
 
 ### Aulas
 - [Primeiro Dia - Introdução a Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_01)
@@ -28,3 +29,4 @@ Este repositório é destinado as aulas dos alunos da jornada de dados que se en
 - [Décimo sétimo dia - SQLAlchemy - Conjunto de ferramentas para manipular SQL em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_17)
 - [Décimo oitavo dia - API - Conjunto de ferramentas para manipular SQL em Python](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_18)
 - [Décimo nono dia - Criação de API - Introdução ao ORM](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_19)
+- [Vigésimo dia - Projeto 02 - CRUD com FastAPI, SQLAlchemy, PostgreSQL e Streamlit](https://github.com/rafaelpanegassi/bootcamp_jornada/tree/main/aula_20)
